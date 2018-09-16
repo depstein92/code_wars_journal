@@ -4,3 +4,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 2. SquareRoot  | 7KYU | squareRoot.js
 3. Sum Of Three Or Five | 6KYU | sumOfThreeOrFive.js
 4. Find all Divisors of Number | 6KYU | divisorNumber.js
+5. Get expanded Number | 6KYU | expandedNumber.js
