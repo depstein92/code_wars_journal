@@ -27,7 +27,6 @@ function expandedForm(num) {
 
 
     if(myStr[i] !== 0 && i + 1 !== strLength){
-      console.log('I have been triggerd',  strLength - myStr.indexOf(i));
       for(let x = 1;  x < (strLength - myStr.indexOf(myStr[i])); x++){
         myStr[i] += '0'
       }
