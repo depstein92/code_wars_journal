@@ -6,3 +6,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 4. Find all Divisors of Number | 6KYU | divisorNumber.js
 5. Get expanded Number | 6KYU | expandedNumber.js
 6. Find Missing Number in Sequence | 6KYU | findMissingTerm.js
+7. First Non Repeating Letter | 5KYU | firstNonRepeatingLetter.js
