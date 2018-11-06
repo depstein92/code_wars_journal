@@ -8,3 +8,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 6. Find Missing Number in Sequence | 6KYU | findMissingTerm.js
 7. First Non Repeating Letter | 5KYU | firstNonRepeatingLetter.js
 8. Binary Search Tree | 5KYU | BinarySearchTree.js
+9. Find Unique String | 5KYU | findUniqueString.js
