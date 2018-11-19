@@ -10,3 +10,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 8. Binary Search Tree | 5KYU | BinarySearchTree.js
 9. Find Unique String | 5KYU | findUniqueString.js
 10. Move Zeros To End | 5KYU | moveZerosToEnd.js  
+11. Not Very Secure | 5KYU | notVerySecure.js
