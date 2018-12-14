@@ -13,5 +13,5 @@ function getDivisorsCnt(n){
  return Array.from(Array(n).keys())
              .filter((obj, i) => {
                if(n % i === 0){ return obj }
-              }).length + 1;
+             }).length + 1;
 }

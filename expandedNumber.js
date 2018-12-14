@@ -4,7 +4,6 @@ expandedForm(12); // Should return '10 + 2'
 expandedForm(42); // Should return '40 + 2'
 expandedForm(70304); // Should return '70000 + 300 + 4'*/
 
-
 function expandedForm(num) {
 
   let myStr = num.toString().split(''),
@@ -24,7 +23,6 @@ function expandedForm(num) {
     if(i + 1 === strLength){
       arr.push(myStr[i])
     }
-
 
     if(myStr[i] !== 0 && i + 1 !== strLength){
       for(let x = 1;  x < (strLength - myStr.indexOf(myStr[i])); x++){
