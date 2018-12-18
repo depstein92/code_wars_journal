@@ -13,3 +13,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 11. Not Very Secure | 5KYU | notVerySecure.js
 12. parseInt Reloaded | 4KYU | parseIntReloaded.js
 13. vowel count | 7KYU | getVowels.php
+14. Human readable duration format | 4kyu| durationFormat.js
