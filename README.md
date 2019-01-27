@@ -15,3 +15,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 13. vowel count | 7KYU | getVowels.php
 14. Human readable duration format | 4KYU| durationFormat.js
 15. Sum of Pairs | 5KYU | sumOfPairs.js
+16. Pig Latin Converter | 5KYU | pigLatinConvert.js
