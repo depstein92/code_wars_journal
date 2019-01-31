@@ -16,3 +16,4 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 14. Human readable duration format | 4KYU| durationFormat.js
 15. Sum of Pairs | 5KYU | sumOfPairs.js
 16. Pig Latin Converter | 5KYU | pigLatinConvert.js
+17. Get Unique String | 5KYU | uniqueString.js
