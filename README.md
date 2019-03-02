@@ -17,3 +17,8 @@ This is a collection of code wars problems I do everyday. If looking for  a solu
 15. Sum of Pairs | 5KYU | sumOfPairs.js
 16. Pig Latin Converter | 5KYU | pigLatinConvert.js
 17. Get Unique String | 5KYU | uniqueString.js
+18. alphabet_position | 5KYU | alphabet_position.py
+19. highest_scoring | 5KYU | highest_scoring.py
+20. binary_gap | 6KYU | binary_gap.js
+21. odd_occurance | 7KYU | odd_occurance.js
+ 
