@@ -29,12 +29,11 @@ function sockMerchant(n, ar) {
         }
     }
 
-    let objectPairs = Object.entries(map);
-    let numberOfPairs = 0;
+    let objectPairs = Object.entries(map),
+        numberOfPairs = 0;
 
     for (let key in objectPairs) {
         let value = objectPairs[key][1];
-        console.log('value', value);
         if (value => 2) {
             let pairs = Math.floor(value / 2);
             console.log('pairs', pairs)
